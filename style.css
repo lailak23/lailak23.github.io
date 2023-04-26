@@ -1,8 +1,12 @@
 body {
-	background-color:#fac3d9;
+	background-color:#fcdce9;
 }
 
 p { 
 	font-family: 'Domine', serif;
 
+}
+#bathbombs{
+	border-color: #ffffff;
+	border-width: 4px;
 }
