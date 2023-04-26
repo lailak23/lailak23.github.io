@@ -7,5 +7,6 @@ p {
 
 }
 #bathbombs{
-	border:5px solid #ffffff;
+	border-color: #ffffff;
+	border-width: 4px;
 }
